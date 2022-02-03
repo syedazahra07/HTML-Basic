@@ -1,0 +1,20 @@
+<html>
+<body>
+<a href="https://jinnah.edu">this is a link. Welcome to Maju</a>
+
+
+<h1>     Hello For Everyone This is Website of Karachi University   <h1>
+
+
+<a href="https://uok.edu.pk">this is a link. Welcome to Karachi University</a>
+
+
+
+<img src="b.jpg" width="50" height="142">
+
+
+
+</body>
+</html>
+
+
